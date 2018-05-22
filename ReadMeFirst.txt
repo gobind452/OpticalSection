@@ -9,4 +9,5 @@ All functions are supplied with comments.
 
 References - Structured illumination microscopy for super-resolution
 and optical sectioning
+ 
 Dan Dan • Baoli Yao • Ming Lei
