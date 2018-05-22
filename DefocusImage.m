@@ -1,5 +1,5 @@
-function defocussed = DefocusImage(image,z,grating,check)
-image1 = image(1:250,:);
+function defocussed = DefocusImage(image,z,grating,check) %z is the defocus parameter
+image1 = image(1:250,:); % If doing without grating, just type DefocusImage(image,z,0,0);
 if(check == 1)
   image1 = image1.*grating;
 endif
