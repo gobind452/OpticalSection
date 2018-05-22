@@ -4,3 +4,7 @@ Now use the OpticalSection function to pass in the same parameters and get the s
 
 An additional HighPass function is supplied which obviously applies a high pass filter to any given image. 
 All functions are supplied with comments.
+
+References - Structured illumination microscopy for super-resolution
+and optical sectioning
+Dan Dan • Baoli Yao • Ming Lei
